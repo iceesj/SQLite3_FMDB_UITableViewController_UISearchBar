@@ -1,6 +1,3 @@
-SQLite3_FMDB_UITableViewController_UISearchBar
+SQLite3_FMDB
 ==============================================
-SQLite3
-FMDB
-UITableViewController
-UISearchBar
+SQLite3+FMDB+UITableViewController+UISearchBar
